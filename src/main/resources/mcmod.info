@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MetalFeverMachinery",
+  "name": "Metal Fever Machinery",
+  "description": "Adds some machine for mod Metal Fever Basis.",
+  "version": "1.2.0.9",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mr_ten_fan"],
+  "credits": "Special thanks for: Vadimka(Coding) and Werman(Thermo-Material Furnace and Smelter)",
+  "logoFile": "Metal-Fever-Machinery.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
